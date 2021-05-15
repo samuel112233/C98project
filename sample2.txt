@@ -1,0 +1,2 @@
+This is text from file 2.
+You were tricked !!!
